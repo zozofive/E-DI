@@ -1,2 +1,2 @@
-# E-DI
+# E+DI
 E+D projects 2021
